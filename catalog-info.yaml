@@ -4,7 +4,8 @@ metadata:
   name: basckstage-demo
   annotations:
     github.com/project-slug: paulmorar/basckstage-demo
+    backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
-  lifecycle: unknown
+  type: service
+  lifecycle: experimental
   owner: guests
