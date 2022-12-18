@@ -1,0 +1,4 @@
+site_name: "back-the-stage-lol"
+
+plugins:
+  - techdocs-core
